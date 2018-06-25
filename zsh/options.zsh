@@ -46,3 +46,6 @@ setopt complete_in_word # Allow completion from within a word/phrase
 
 # # ===== Scripts and Functions
 # setopt multios # perform implicit tees or cats when multiple redirections are attempted
+
+
+
